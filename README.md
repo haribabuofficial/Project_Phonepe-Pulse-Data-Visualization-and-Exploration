@@ -11,3 +11,5 @@ The aim of this project is to develop a solution that extracts, transforms, and 
     4.Dashboard Creation: Using Streamlit and Plotly to build an interactive dashboard.
 
     5.Data Retrieval: Fetching data from the database to dynamically update the dashboard.
+
+LinkedIn: www.linkedin.com/in/haribabuofficial
